@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Juan Carlos</h1>
-<h3 align="center">Soy un estudiante de Bachillerato de Madrid al que le encanta la tecnología y la programación</h3>
+<h3 align="center">Estudiante de Ingeniería del Software (UCM) de Madrid al que le encanta la tecnología y la programación</h3>
 
 - 📫 Contacto: **jc07alonso@gmail.com**
 
